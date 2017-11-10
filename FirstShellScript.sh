@@ -7,4 +7,8 @@ echo "Hi Welcome to GitHub World!"
 
 echo "Dummy"
 echo "How are u at the end"
+
+echo "In-future required"
 echo "Demo script Ends
+
+echo "done"
