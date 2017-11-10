@@ -4,4 +4,6 @@
 #Description : Demo Script
 echo "Demo script begins"
 echo "Hi Welcome to GitHub World!"
+
+echo "Dummy"
 echo "Demo script Ends
